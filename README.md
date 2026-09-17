@@ -1,0 +1,1 @@
+A structured collection of my daily programming practice, featuring regular code implementations designed to strengthen logical thinking, problem-solving skills, and core programming fundamentals. This repository documents my consistent coding practice, continuous learning, and progressive improvement in programming.
